@@ -1,5 +1,8 @@
-// import logo from './logo.svg';
 import './App.css';
+import logo from './logo.svg';
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 
 function App() {
   return (
@@ -23,6 +26,7 @@ function App() {
 
     </div>
   );
+  ReactDOM.render(, document.getElementById('root'));
 }
 
 export default App;
