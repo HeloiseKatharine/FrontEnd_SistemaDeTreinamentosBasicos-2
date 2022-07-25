@@ -1,0 +1,14 @@
+.nav{
+  background-color: blue;
+  height: 90px;
+  display: flex;
+}
+
+h1{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  color: white;
+}
